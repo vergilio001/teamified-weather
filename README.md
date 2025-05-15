@@ -39,7 +39,4 @@ Expected response:
 Caching Mechanism
 - Uses Caffeine Cache to store weather responses for fast access.
 - Cache expiration can be configured in the CacheConfig.java file.
-Contributing
-Want to improve this project? Feel free to fork and submit a pull request!
 
-Would you like me to refine anything further? 🚀
